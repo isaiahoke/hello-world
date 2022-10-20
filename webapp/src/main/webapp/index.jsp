@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>Register User for DevOps Test</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -28,7 +28,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Already have an account? <a href="https://da-manager.co.uk">Sign in</a>.</p>
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
