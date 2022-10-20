@@ -31,7 +31,12 @@
     <p>Already have an account? <a href="https://da-manager.co.uk">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+  <h2> How to Open VS Code from the Terminal</h2>
+   <p> First, open up your terminal. You can open your terminal in a few ways. One way of opening your terminal is hitting the command button and the spacebar at the same time. This opens spotlight search. From here, you can type "terminal".
+    
+    Once your terminal is open, you can open VS Code from it by typing $ code . Then hit enter.</p>
+
+   <h3> Thankyou, Happy Learning </h3>
 
   
 </form>
