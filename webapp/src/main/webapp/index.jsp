@@ -37,6 +37,7 @@
     Once your terminal is open, you can open VS Code from it by typing $ code . Then hit enter.</p>
 
     <p> interesting how things work when you study</p>
+    <p> interesting how to trigger things</p>
 
 
    <h3> Thankyou, Happy Learning </h3>
