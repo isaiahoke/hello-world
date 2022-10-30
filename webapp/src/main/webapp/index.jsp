@@ -36,5 +36,5 @@
     
    <p> Enter mobile number and stop  We are the best</p>
 
-  
+   <h2> How to Open Next Lecture</h2>
 </form>
